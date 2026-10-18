@@ -1,1 +1,3353 @@
-[{"number":2,"width":1659,"height":948,"background":{"gradient":[{"A":"#fee2a3"},{"A":"#f2f9cd","C":0.5},{"A":"#d0f2ce","C":1}],"center":{},"type":"radial","angle":0},"elements":[{"id":"LBt22ZGC1LlVqkC5","type":"text","x":59.6177750426848,"y":380.45888563143905,"width":710,"height":183,"rotation":0,"opacity":1,"text":"基于公司现有平台资源，独立全栈开发多款出\n海App全流程落地。利用Codex提升研发效率，\n设计IAA广告+IAP内购双变现方案，完成\nAdMob广告体系搭建，同时负责海外\n流量投放优化，实现商业化闭环","fontSize":27,"color":"#214e70","align":"start","font":"serif","lineHeight":1.3,"lines":[20,24,22,19,15],"sourceFontId":"YAGGyqJzcNE","effects":[],"fit":false,"wordWrap":true},{"id":"LBNXGw2DkxqbkkXd","type":"text","x":123.12979670143909,"y":602.9323127183153,"width":320.87750022841124,"height":39.31848,"rotation":0,"opacity":1,"text":"全栈开发","fontSize":29,"color":"#214e70","align":"start","font":"serif","lineHeight":1.38,"lines":[5],"sourceFontId":"YAGGyqJzcNE","effects":[],"fit":false,"wordWrap":true},{"id":"LB7W8yX9vfp0jSBv","type":"text","x":123.12979670143912,"y":675.2675395949161,"width":309.47254173699076,"height":39.31848,"rotation":0,"opacity":1,"text":"IAA & IAP","fontSize":29,"color":"#214e70","align":"start","font":"serif","lineHeight":1.38,"lines":[10],"sourceFontId":"YAGGyqJzcNE","effects":[],"fit":false,"wordWrap":true},{"id":"LBTGW3lvySZMhfQ6","type":"text","x":123.12979670143912,"y":748.5764451383529,"width":309.47254173699076,"height":39.31848,"rotation":0,"opacity":1,"text":"海外投放 & 用户增长","fontSize":29,"color":"#214e70","align":"start","font":"serif","lineHeight":1.38,"lines":[12],"sourceFontId":"YAGGyqJzcNE","effects":[],"fit":false,"wordWrap":true},{"id":"LBQgy3R8wF7RlQKK","type":"text","x":123.12979670143912,"y":823.0195868484391,"width":309.47254173699076,"height":39.31848,"rotation":0,"opacity":1,"text":"商业化闭环","fontSize":29,"color":"#214e70","align":"start","font":"serif","lineHeight":1.38,"lines":[6],"sourceFontId":"YAGGyqJzcNE","effects":[],"fit":false,"wordWrap":true}],"fontScale":1,"artwork":"/portfolio/artwork-2.webp","parallaxLayers":[{"name":"page-2-0","src":"/portfolio/layers/page-2-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-2-1","src":"/portfolio/layers/page-2-1.webp?v=original-20261019","parallax":{"x":1.1,"y":0.55}},{"name":"page-2-2","src":"/portfolio/layers/page-2-2.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-2-3","src":"/portfolio/layers/page-2-3.webp?v=original-20261019","parallax":{"x":0.3,"y":0.14}}]},{"number":3,"width":1659,"height":948,"background":{"type":"linear","angle":135,"gradient":[{"A":"#ffe1a5"},{"A":"#a4744b","C":0.5},{"A":"#9c5828","C":1}]},"elements":[{"id":"case-narrative-3-title-v3-flow","type":"text","text":"纸跃——小红书 Agent 小组件","x":142,"y":307,"width":650,"height":100,"fontSize":40,"font":"serif","fontWeight":500,"color":"#214e70","lineHeight":1.3,"rotation":0,"opacity":1,"align":"start","fit":false,"wordWrap":true,"cjkPunctuation":true,"baseline":35.2},{"id":"case-narrative-3-body-v3-flow","type":"text","text":"针对小红书手帐用户“不知道今天写什么”的需求，设计并上线「纸跃」Agent 小组件，为日常记录提供灵感。产品上线后累计获得 3k+ 用户，相关话题浏览量达到 4w+，并根据用户反馈推进 v2.0 迭代，完成从需求整理、功能调整到版本发布的完整流程。","x":142,"y":384,"width":600,"height":320,"fontSize":26,"font":"serif","fontWeight":400,"color":"#214e70","lineHeight":1.6,"rotation":0,"opacity":1,"align":"start","fit":false,"wordWrap":true,"cjkPunctuation":true,"baseline":22.88,"flowWidths":[600,600,600,430],"keepTogether":["调整"]}],"fontScale":1,"artwork":"/portfolio/artwork-3.webp","parallaxLayers":[{"name":"page-3-0","src":"/portfolio/layers/page-3-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-3-1","src":"/portfolio/layers/page-3-1.webp?v=original-20261019","parallax":{"x":0.75,"y":0.35}},{"name":"page-3-2","src":"/portfolio/layers/page-3-2.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-3-3","src":"/portfolio/layers/page-3-3.webp?v=original-20261019","parallax":{"x":1.1,"y":0.5}}],"typographyRevision":"case-narrative-v3-flow"},{"number":4,"width":1659,"height":948,"background":{"type":"linear","angle":90,"gradient":[{"A":"#3a86c5"},{"A":"#73b4e9","C":0.5},{"A":"#ddf3c0","C":1}]},"elements":[{"id":"case-narrative-4-title-v3-flow","type":"text","text":"音量工具——\n用户增长与商业化实践","x":1020,"y":320,"width":510,"height":105,"fontSize":40,"font":"serif","fontWeight":500,"color":"#214e70","lineHeight":1.3,"rotation":0,"opacity":1,"align":"start","fit":false,"wordWrap":true,"cjkPunctuation":true,"baseline":35.2},{"id":"case-narrative-4-body-v3-flow","type":"text","text":"音量工具上线初期，面临使用需求小众、广告变现较弱的问题。通过竞品分析与使用场景梳理，增加相关功能，调整首次使用流程，并结合通知与悬浮窗触达，提升用户活跃与广告展示机会。在持续迭代过程中，次日留存从 10% 提升至 40%，日均 ROI 从 20% 提升至 150%。","x":1020,"y":430,"width":520,"height":320,"fontSize":26,"font":"serif","fontWeight":400,"color":"#214e70","lineHeight":1.6,"rotation":0,"opacity":1,"align":"start","fit":false,"wordWrap":true,"cjkPunctuation":true,"baseline":22.88,"flowWidths":[520,520,520,520,440]}],"fontScale":1,"artwork":"/portfolio/artwork-4.webp","parallaxLayers":[{"name":"page-4-0","src":"/portfolio/layers/page-4-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-4-1","src":"/portfolio/layers/page-4-1.webp?v=original-20261019","parallax":{"x":0.35,"y":0.16}},{"name":"page-4-2","src":"/portfolio/layers/page-4-2.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-4-3","src":"/portfolio/layers/page-4-3.webp?v=original-20261019","parallax":{"x":1.0,"y":0.5}},{"name":"page-4-4","src":"/portfolio/layers/page-4-4.webp?v=original-20261019","parallax":{"x":1.1,"y":0.5}}],"typographyRevision":"case-narrative-v3-flow"},{"number":5,"width":1659,"height":948,"background":{"gradient":[{"A":"#b4a6e3"},{"A":"#d5baee","C":0.5},{"A":"#b1d4f7","C":1}],"center":90,"type":"linear","angle":90},"elements":[{"id":"LBDdpJxgZrbwpWsf","type":"text","x":39.640741502455995,"y":415.63866395478067,"width":487.8764111772495,"height":140.93197562918266,"rotation":-4.654094942190735,"opacity":1,"text":"动作分析","fontSize":117.797,"color":"#f3f5f0","align":"center","font":"serif","lineHeight":0.8,"lines":[5],"sourceFontId":"YAFR6Eb_muc","effects":[{"A":"shadow","B":{"angle":"65","blur":"0.76","color":"#5e17eb","offset":"0.6","transparency":"0.51"}}],"fontFamily":"Portfolio Hand","fit":false,"shadow":[{"x":3,"y":4,"color":"#846bb666"}]},{"id":"LByKBj1q3L2TJpxS","type":"text","x":113.56276971401766,"y":180.6,"width":325.43140032542334,"height":303.98340660675876,"rotation":10.030890807834645,"opacity":1,"text":"AI+","fontSize":253.681,"color":"#f3f5f0","align":"center","font":"script","lineHeight":0.8,"lines":[4],"sourceFontId":"YACgERFuAbY","effects":[{"A":"shadow","B":{"angle":"65","blur":"0.76","color":"#5e17eb","offset":"0.6","transparency":"0.51"}}],"fontFamily":"Portfolio Jeepers","fit":false,"shadow":[{"x":3,"y":4,"color":"#846bb666"}],"baseline":203},{"id":"case-narrative-5-body-v3-flow","type":"text","text":"围绕健身动作是否规范的判断需求，早期尝试直接使用 AI 分析训练视频，但发现 Token 消耗较高。随后引入 MediaPipe 提取人体骨骼关键点，结合关节角度建立动作标准库，将视频转化为量化数据，再由 AI 生成文字反馈，以降低分析成本。","x":94,"y":600,"width":468,"height":320,"fontSize":26,"font":"serif","fontWeight":400,"color":"#214e70","lineHeight":1.6,"rotation":0,"opacity":1,"align":"justify","fit":false,"wordWrap":true,"cjkPunctuation":true,"baseline":22.88,"flowWidths":[468],"keepTogether":["文字反馈","提取","动作"]}],"fontScale":1,"artwork":"/portfolio/artwork-5.webp","parallaxLayers":[{"name":"page-5-0","src":"/portfolio/layers/page-5-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-5-1","src":"/portfolio/layers/page-5-1.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-5-2","src":"/portfolio/layers/page-5-2.webp?v=original-20261019","parallax":{"x":0.7,"y":0.3}},{"name":"page-5-3","src":"/portfolio/layers/page-5-3.webp?v=original-20261019","parallax":{"x":1.1,"y":0.5}}],"typographyRevision":"case-narrative-v3-flow"},{"number":6,"width":1659,"height":948,"background":"#9c4d04","elements":[{"id":"LBrwl1HpLzqxkX0p","type":"text","x":432.8159439562497,"y":583.2953888553808,"width":1610.8431661605784,"height":387.9168403513961,"rotation":0,"opacity":1,"text":"skills","fontSize":323.42056115899425,"color":"#ffd200","align":"center","font":"script","lineHeight":0.97,"lines":[7],"sourceFontId":"YAFBcV2aT9Y","effects":[{"A":"echo","B":{"angle":"-45","color":"#ff5055","offset":"1"}}],"fontFamily":"Portfolio Laries","fit":false,"baseline":265.2048601503753,"shadow":[{"x":27,"y":27,"color":"#ff50558c"},{"x":14,"y":14,"color":"#ff5055b3"}]},{"id":"LBl3yCJCxRstvq1V","type":"text","x":-406.7814814975842,"y":75.4962573520524,"width":1469.4,"height":353.85506,"rotation":0,"opacity":1,"text":"My","fontSize":295.022,"color":"#ffd200","align":"center","font":"script","lineHeight":0.97,"lines":[3],"sourceFontId":"YAFBcV2aT9Y","effects":[{"A":"echo","B":{"angle":"-45","color":"#ff5055","offset":"1"}}],"fontFamily":"Portfolio Laries","fit":false,"baseline":241.91804,"shadow":[{"x":27,"y":27,"color":"#ff50558c"},{"x":14,"y":14,"color":"#ff5055b3"}]}],"fontScale":1,"artwork":"/portfolio/artwork-6.webp","parallaxLayers":[{"name":"page-6-0","src":"/portfolio/layers/page-6-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-6-1","src":"/portfolio/layers/page-6-1.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-6-2","src":"/portfolio/layers/page-6-2.webp?v=original-20261019","parallax":{"x":1.1,"y":0.5}}]},{"number":7,"width":1659,"height":948,"background":"#476fac","elements":[{"id":"LB0mW3hlBbNy8PHk","type":"text","x":450.61236825542846,"y":789.8339437483088,"width":111.68532337730716,"height":36.15232033204744,"rotation":0,"opacity":1,"text":"@夏末集","fontSize":34.6667,"color":"#ffffff","align":"center","font":"serif","lineHeight":1.1,"lines":[5]},{"id":"LB1Fc2qMZyFC4460","type":"text","x":734.1994395520985,"y":789.8339437483088,"width":162.30444894273487,"height":36.15232033204744,"rotation":0,"opacity":1,"text":"15829656440","fontSize":34.6667,"color":"#ffffff","align":"center","font":"serif","lineHeight":1.1,"lines":[12]},{"id":"LBbnxTccb42yClwy","type":"text","x":1068.4056364141961,"y":789.8339437483088,"width":246.54815397682782,"height":36.15232033204744,"rotation":0,"opacity":1,"text":"1711363741@qq.com","fontSize":34.6667,"color":"#ffffff","align":"center","font":"serif","lineHeight":1.1,"lines":[18]}],"artwork":"/portfolio/artwork-7.webp","fontScale":0.75,"parallaxLayers":[{"name":"page-7-0","src":"/portfolio/layers/page-7-0.webp?v=original-20261019","parallax":{"x":0,"y":0}},{"name":"page-7-1","src":"/portfolio/layers/page-7-1.webp?v=original-20261019","parallax":{"x":0.9,"y":0.4}},{"name":"page-7-2","src":"/portfolio/layers/page-7-2.webp?v=original-20261019","parallax":{"x":0,"y":0}}]}]
+[
+  {
+    "number": 2,
+    "width": 1659,
+    "height": 948,
+    "background": {
+      "gradient": [
+        {
+          "A": "#fee2a3"
+        },
+        {
+          "A": "#f2f9cd",
+          "C": 0.5
+        },
+        {
+          "A": "#d0f2ce",
+          "C": 1
+        }
+      ],
+      "center": {},
+      "type": "radial",
+      "angle": 0
+    },
+    "elements": [
+      {
+        "id": "LBMdbK7B7LJ9Jl38",
+        "type": "image",
+        "x": 542.9113104683669,
+        "y": 399.0286413772793,
+        "width": 397.24764731085907,
+        "height": 365.4678355259903,
+        "rotation": -18.153930865392013,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEaASSeRt0.svg",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -8.526512829121202e-14,
+          "D": 397.24764731085924,
+          "C": 365.46783552599044
+        },
+        "mediaId": "MAEaASSeRt0",
+        "colors": {
+          "#000000": "#8bbede"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBL6MLNWKF3zWm62",
+        "type": "image",
+        "x": 741.5351341237963,
+        "y": 135.4124033717355,
+        "width": 397.24764731085907,
+        "height": 365.4678355259903,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEaASSeRt0.svg",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -8.526512829121202e-14,
+          "D": 397.24764731085924,
+          "C": 365.46783552599044
+        },
+        "mediaId": "MAEaASSeRt0",
+        "colors": {
+          "#000000": "#8bbede"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBpB1zyNMVpWrfmc",
+        "type": "image",
+        "x": 750.5651320340701,
+        "y": 14.465521422479341,
+        "width": 534.5634583010883,
+        "height": 269.80007340528056,
+        "rotation": -11.823713814924742,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYP0QcvCo.webp",
+        "crop": {
+          "A": -8.172924911285492,
+          "B": -5.684341886080802e-14,
+          "D": 534.5634583010883,
+          "C": 277.9729983165659
+        },
+        "mediaId": "MAHYP0QcvCo",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBHMTqbWCZTSLWjQ",
+        "type": "group",
+        "x": 753.0433211623845,
+        "y": -62.584416568633884,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBdfR3YrrMGPDRmS",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyjSTvWk.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyjSTvWk",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LB7ct238crPVWQBF",
+        "type": "image",
+        "x": 1241.8087787588272,
+        "y": 314.7905422914588,
+        "width": 397.24764731085907,
+        "height": 365.4678355259903,
+        "rotation": 158.4974597553146,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEaASSeRt0.svg",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -8.526512829121202e-14,
+          "D": 397.24764731085924,
+          "C": 365.46783552599044
+        },
+        "mediaId": "MAEaASSeRt0",
+        "colors": {
+          "#000000": "#8bbede"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBt59SrcGWYQxFjN",
+        "type": "group",
+        "x": 1105.1224765650745,
+        "y": -89.89007012634637,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBcxbDmKHv56YRWS",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyrsJQWg.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyrsJQWg",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBhtTYbYnSP4N4GV",
+        "type": "image",
+        "x": 967.18881710095,
+        "y": 562.438903025868,
+        "width": 585.6741271808743,
+        "height": 404.1151477548032,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQK-JbGE.webp",
+        "crop": {
+          "B": 5.684341886080802e-14,
+          "D": 585.6741271808743,
+          "C": 404.1151477548033
+        },
+        "mediaId": "MAHYQK-JbGE",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBLZh4J3KrknZlHN",
+        "type": "group",
+        "x": 777.1338031415835,
+        "y": 163.55026118481865,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LB7QHSf03t2lqWpn",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyvDwf3Y.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyvDwf3Y",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBncBn8xkgYydrwr",
+        "type": "group",
+        "x": 444.60351754295436,
+        "y": 417.20737524419144,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBQZrL3S5fVqRRKV",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXylPj-_s.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXylPj-_s",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBCrzrvtPj9Zq2Gq",
+        "type": "group",
+        "x": 1403.520054609659,
+        "y": -65.38857726805308,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBTkN18QNHs4fWdq",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyo3KvhY.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyo3KvhY",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBj0WH7fd7Y3f4J2",
+        "type": "group",
+        "x": 1079.0680909420953,
+        "y": 188.51760892712488,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBnDGqgVF0xYw5YN",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyuLirCU.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyuLirCU",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBXXVW7x5phKSxnt",
+        "type": "group",
+        "x": 743.0010955875388,
+        "y": 441.70886810248487,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBT4LfGv0X4nkk09",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXyrahgi4.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXyrahgi4",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBKnQm7QcjzJ8gYz",
+        "type": "group",
+        "x": 1406.2021458500303,
+        "y": 186.74757514868028,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LB9d9nmfT4JLg97S",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXymhFYzM.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXymhFYzM",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LB575MGbgqkP6tfQ",
+        "type": "group",
+        "x": 409.678,
+        "y": 695.346,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBcWH6J8vRhY0hkl",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXymn2lR4.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXymn2lR4",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LB1cFJR0DWyP4Zwn",
+        "type": "image",
+        "x": 1327.231565994432,
+        "y": 734.8348030942365,
+        "width": 214.15876880857135,
+        "height": 164.90225198259995,
+        "rotation": 162.13249415294734,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFU5XBFH80.svg",
+        "crop": {
+          "A": -1.4210854715202004e-14,
+          "B": -2.842170943040401e-14,
+          "D": 214.15876880857138,
+          "C": 164.90225198259998
+        },
+        "mediaId": "MAFU5XBFH80",
+        "colors": {
+          "#020202": "#fd7947"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LByzbV0fhr24y8kZ",
+        "type": "group",
+        "x": 1081.3079224501967,
+        "y": 441.70886810248487,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBN0GnQyxsm4XYzV",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYQBv28Ag.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHYQBv28Ag",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBTMwQ3xvwHBdSWy",
+        "type": "group",
+        "x": 751.7999715380379,
+        "y": 686.8512286508472,
+        "width": 481.42611608606126,
+        "height": 345.2389084725268,
+        "rotation": 0.4895031445415645,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1290.81,
+        "children": [
+          {
+            "id": "LBJwYRV2LMYHJVkP",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1290.81,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHXynUzRkY.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1290.81
+            },
+            "mediaId": "MAHXynUzRkY",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBn5HycfyvZYqdmC",
+        "type": "image",
+        "x": 42.92964338652081,
+        "y": 63.94827765523809,
+        "width": 643.0550445047045,
+        "height": 297.18878550815026,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/apps-title-ink.webp",
+        "crop": {
+          "D": 643.0550445047045,
+          "C": 297.18878550815026
+        },
+        "mediaId": "MAHYQn1G6OU",
+        "colors": {},
+        "flipX": false,
+        "flipY": false,
+        "titleInk": true
+      },
+      {
+        "id": "LB4flcYdmtRxQ5LD",
+        "type": "image",
+        "x": 59.617775042684805,
+        "y": 594.4347177759223,
+        "width": 52.10706316733386,
+        "height": 53.44314171008602,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQKtULUA.webp",
+        "crop": {
+          "A": 3.552713678800501e-15,
+          "B": 3.552713678800501e-15,
+          "D": 52.10706316733386,
+          "C": 53.44314171008602
+        },
+        "mediaId": "MAHYQKtULUA",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB1pn88syhw8rmPP",
+        "type": "image",
+        "x": 111.72483821001867,
+        "y": 597.3052459506218,
+        "width": 273.36547856965683,
+        "height": 50.57261353538652,
+        "rotation": 0,
+        "opacity": 0.28,
+        "src": "/portfolio/assets/MAB5XhmpyaQ.svg",
+        "crop": {
+          "D": 273.36547856965683,
+          "C": 50.57261353538652
+        },
+        "mediaId": "MAB5XhmpyaQ",
+        "colors": {
+          "#ffffff": "#e1ddd5"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBt22ZGC1LlVqkC5",
+        "type": "text",
+        "x": 59.6177750426848,
+        "y": 380.45888563143905,
+        "width": 710,
+        "height": 183,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "基于公司现有平台资源，独立全栈开发多款出\n海App全流程落地。利用Codex提升研发效率，\n设计IAA广告+IAP内购双变现方案，完成\nAdMob广告体系搭建，同时负责海外\n流量投放优化，实现商业化闭环",
+        "fontSize": 27,
+        "color": "#214e70",
+        "align": "start",
+        "font": "serif",
+        "lineHeight": 1.3,
+        "lines": [
+          20,
+          24,
+          22,
+          19,
+          15
+        ],
+        "sourceFontId": "YAGGyqJzcNE",
+        "effects": [],
+        "fit": false,
+        "wordWrap": true
+      },
+      {
+        "id": "LBS3RZSGJjFHDPcy",
+        "type": "image",
+        "x": 111.72483821001867,
+        "y": 668.5062366605739,
+        "width": 273.36547856965683,
+        "height": 50.57261353538652,
+        "rotation": 0,
+        "opacity": 0.28,
+        "src": "/portfolio/assets/MAB5XhmpyaQ.svg",
+        "crop": {
+          "D": 273.36547856965683,
+          "C": 50.57261353538652
+        },
+        "mediaId": "MAB5XhmpyaQ",
+        "colors": {
+          "#ffffff": "#e1ddd5"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBx5LTdmlcCQXNnz",
+        "type": "image",
+        "x": 111.72483821001873,
+        "y": 742.9493783706598,
+        "width": 273.36547856965683,
+        "height": 50.57261353538652,
+        "rotation": 0,
+        "opacity": 0.28,
+        "src": "/portfolio/assets/MAB5XhmpyaQ.svg",
+        "crop": {
+          "D": 273.36547856965683,
+          "C": 50.57261353538652
+        },
+        "mediaId": "MAB5XhmpyaQ",
+        "colors": {
+          "#ffffff": "#e1ddd5"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBWLHcqbrXv36XhC",
+        "type": "image",
+        "x": 111.72483821001873,
+        "y": 817.3925200807457,
+        "width": 273.36547856965683,
+        "height": 50.57261353538652,
+        "rotation": 0,
+        "opacity": 0.28,
+        "src": "/portfolio/assets/MAB5XhmpyaQ.svg",
+        "crop": {
+          "D": 273.36547856965683,
+          "C": 50.57261353538652
+        },
+        "mediaId": "MAB5XhmpyaQ",
+        "colors": {
+          "#ffffff": "#e1ddd5"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBNXGw2DkxqbkkXd",
+        "type": "text",
+        "x": 123.12979670143909,
+        "y": 602.9323127183153,
+        "width": 320.87750022841124,
+        "height": 39.31848,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "全栈开发",
+        "fontSize": 29,
+        "color": "#214e70",
+        "align": "start",
+        "font": "serif",
+        "lineHeight": 1.38,
+        "lines": [
+          5
+        ],
+        "sourceFontId": "YAGGyqJzcNE",
+        "effects": [],
+        "fit": false,
+        "wordWrap": true
+      },
+      {
+        "id": "LB7W8yX9vfp0jSBv",
+        "type": "text",
+        "x": 123.12979670143912,
+        "y": 675.2675395949161,
+        "width": 309.47254173699076,
+        "height": 39.31848,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "IAA & IAP",
+        "fontSize": 29,
+        "color": "#214e70",
+        "align": "start",
+        "font": "serif",
+        "lineHeight": 1.38,
+        "lines": [
+          10
+        ],
+        "sourceFontId": "YAGGyqJzcNE",
+        "effects": [],
+        "fit": false,
+        "wordWrap": true
+      },
+      {
+        "id": "LBTGW3lvySZMhfQ6",
+        "type": "text",
+        "x": 123.12979670143912,
+        "y": 748.5764451383529,
+        "width": 309.47254173699076,
+        "height": 39.31848,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "海外投放 & 用户增长",
+        "fontSize": 29,
+        "color": "#214e70",
+        "align": "start",
+        "font": "serif",
+        "lineHeight": 1.38,
+        "lines": [
+          12
+        ],
+        "sourceFontId": "YAGGyqJzcNE",
+        "effects": [],
+        "fit": false,
+        "wordWrap": true
+      },
+      {
+        "id": "LBQgy3R8wF7RlQKK",
+        "type": "text",
+        "x": 123.12979670143912,
+        "y": 823.0195868484391,
+        "width": 309.47254173699076,
+        "height": 39.31848,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "商业化闭环",
+        "fontSize": 29,
+        "color": "#214e70",
+        "align": "start",
+        "font": "serif",
+        "lineHeight": 1.38,
+        "lines": [
+          6
+        ],
+        "sourceFontId": "YAGGyqJzcNE",
+        "effects": [],
+        "fit": false,
+        "wordWrap": true
+      },
+      {
+        "id": "LB9qTzvVmdQ2jWCp",
+        "type": "image",
+        "x": 60.02273353410526,
+        "y": 668.5062366605739,
+        "width": 52.10706316733386,
+        "height": 53.44314171008602,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQCP7sDM.webp",
+        "crop": {
+          "A": 3.552713678800501e-15,
+          "B": 3.552713678800501e-15,
+          "D": 52.10706316733386,
+          "C": 53.44314171008602
+        },
+        "mediaId": "MAHYQCP7sDM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBzyXXlsYds6RYdk",
+        "type": "image",
+        "x": 59.21281655126438,
+        "y": 742.9493783706599,
+        "width": 52.10706316733386,
+        "height": 53.44314171008602,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQCP7sDM.webp",
+        "crop": {
+          "A": 3.552713678800501e-15,
+          "B": 3.552713678800501e-15,
+          "D": 52.10706316733386,
+          "C": 53.44314171008602
+        },
+        "mediaId": "MAHYQCP7sDM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBqkf7LVywZXx6qW",
+        "type": "image",
+        "x": 59.617775042684826,
+        "y": 817.0208972553115,
+        "width": 52.10706316733386,
+        "height": 53.44314171008602,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQCP7sDM.webp",
+        "crop": {
+          "A": 3.552713678800501e-15,
+          "B": 3.552713678800501e-15,
+          "D": 52.10706316733386,
+          "C": 53.44314171008602
+        },
+        "mediaId": "MAHYQCP7sDM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      }
+    ],
+    "fontScale": 1,
+    "artwork": "/portfolio/artwork-2.webp",
+    "parallaxLayers": [
+      {
+        "name": "page-2-0",
+        "src": "/portfolio/layers/page-2-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-2-1",
+        "src": "/portfolio/layers/page-2-1.webp",
+        "parallax": {
+          "x": 1.1,
+          "y": 0.55
+        }
+      },
+      {
+        "name": "page-2-2",
+        "src": "/portfolio/layers/page-2-2.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-2-3",
+        "src": "/portfolio/layers/page-2-3.webp",
+        "parallax": {
+          "x": 0.3,
+          "y": 0.14
+        }
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "width": 1659,
+    "height": 948,
+    "background": {
+      "type": "linear",
+      "angle": 135,
+      "gradient": [
+        {
+          "A": "#ffe1a5"
+        },
+        {
+          "A": "#a4744b",
+          "C": 0.5
+        },
+        {
+          "A": "#9c5828",
+          "C": 1
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "LBTY8ds04S7ntfG4",
+        "type": "group",
+        "x": 894.1604579022505,
+        "y": 158.12937159119363,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB9D7r5qgxJHnkjw",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-UpiSRE.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-UpiSRE",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBZrwKdy3BjB4ZY7",
+        "type": "group",
+        "x": 1141.8043135133191,
+        "y": -58.94095005366202,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB7GTph6c6qSsS63",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-cfpcso.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-cfpcso",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBPP7THC4spWyLNr",
+        "type": "group",
+        "x": 1141.8043135133191,
+        "y": 442.2231891248646,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB4pTztrGNJ1LVfC",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-ZxeeIw.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-ZxeeIw",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBg3grJwTKqbGTSG",
+        "type": "group",
+        "x": 894.1604579022505,
+        "y": 659.2935107697203,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBJ8PMM2pfJZk4NT",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-dKjk-g.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-dKjk-g",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBgb1zZs2P704gpS",
+        "type": "group",
+        "x": 1389.4481691243875,
+        "y": 288.7064892302793,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBpCX7T4bRFf8SKk",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-RqtosQ.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-RqtosQ",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBMr594rr1Zvyt8C",
+        "type": "group",
+        "x": 1389.4481691243875,
+        "y": 789.8706284088064,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBWTCqf48qYr3p7x",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-XbvuPE.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-XbvuPE",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBtvF1mvM6KB8SLX",
+        "type": "group",
+        "x": 894.1604579022505,
+        "y": -343.0347675873331,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBSYmXLgVDJsTgWw",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-ROmClE.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-ROmClE",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBFD1Ycmb1vHxmKQ",
+        "type": "group",
+        "x": 1389.4481691243875,
+        "y": -212.45764994824742,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBjZbm69bFCx91gX",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX-W1jO1A.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX-W1jO1A",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBtFwRLfTjwS72YP",
+        "type": "image",
+        "x": -11.826591156843051,
+        "y": 158.1293715911936,
+        "width": 841.326591156843,
+        "height": 706.7143365717484,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEITbK-JmY.webp",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -2.8421709430404007e-13,
+          "D": 841.3265911568435,
+          "C": 706.7143365717485
+        },
+        "mediaId": "MAEITbK-JmY",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBD5TC6MF75hHRTn",
+        "type": "image",
+        "x": -251.19232607024907,
+        "y": 626.7332755769958,
+        "width": 718.9053149449422,
+        "height": 596.6914114043019,
+        "rotation": 11.063530083083755,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAD2d4j-MeA-licensed-restored.webp",
+        "crop": {
+          "B": -1.1368683772161603e-13,
+          "D": 718.9053149449422,
+          "C": 596.691411404302
+        },
+        "mediaId": "MAD2d4j-MeA",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBVFVMJZmf3lrMxB",
+        "type": "image",
+        "x": 536.0799979175752,
+        "y": 2.808825189774325,
+        "width": 159.89856322578896,
+        "height": 159.09907040966004,
+        "rotation": 49.832131647556096,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAD2d8_9HxE-licensed-restored.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "B": -2.842170943040401e-14,
+          "D": 159.898563225789,
+          "C": 159.09907040966004
+        },
+        "mediaId": "MAD2d8_9HxE",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBHjmYtR49qlDVmR",
+        "type": "image",
+        "x": -142.91029895368044,
+        "y": -292.8894234405974,
+        "width": 733.5269482689379,
+        "height": 682.1800618901121,
+        "rotation": 15.304231019044423,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEiYRNM_mE-licensed-restored.webp",
+        "crop": {
+          "D": 733.5269482689379,
+          "C": 682.1800618901121
+        },
+        "mediaId": "MAEiYRNM_mE",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBt1zkVxbVfpJtH7",
+        "type": "group",
+        "x": 583.806538866422,
+        "y": 531.1339104449363,
+        "width": 244.8316846249017,
+        "height": 495.47306621397684,
+        "rotation": -7.491422208996709,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB5vWwrwptlQ13W9",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHX2-EMP9M.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHX2-EMP9M",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBpNqsbZrN2jMlDq",
+        "type": "image",
+        "x": -30.36163481767494,
+        "y": 566.2067426288586,
+        "width": 178.13917608923612,
+        "height": 210.81559300501317,
+        "rotation": -36.79214785774737,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAD2dyXuKsA-licensed-restored.webp",
+        "crop": {
+          "D": 178.13917608923612,
+          "C": 210.81559300501317
+        },
+        "mediaId": "MAD2dyXuKsA",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "case-narrative-3-title-v3-flow",
+        "type": "text",
+        "text": "纸跃——小红书 Agent 小组件",
+        "x": 142,
+        "y": 307,
+        "width": 650,
+        "height": 100,
+        "fontSize": 40,
+        "font": "serif",
+        "fontWeight": 500,
+        "color": "#214e70",
+        "lineHeight": 1.3,
+        "rotation": 0,
+        "opacity": 1,
+        "align": "start",
+        "fit": false,
+        "wordWrap": true,
+        "cjkPunctuation": true,
+        "baseline": 35.2
+      },
+      {
+        "id": "case-narrative-3-body-v3-flow",
+        "type": "text",
+        "text": "针对小红书手帐用户“不知道今天写什么”的需求，设计并上线「纸跃」Agent 小组件，为日常记录提供灵感。产品上线后累计获得 3k+ 用户，相关话题浏览量达到 4w+，并根据用户反馈推进 v2.0 迭代，完成从需求整理、功能调整到版本发布的完整流程。",
+        "x": 142,
+        "y": 384,
+        "width": 600,
+        "height": 320,
+        "fontSize": 26,
+        "font": "serif",
+        "fontWeight": 400,
+        "color": "#214e70",
+        "lineHeight": 1.6,
+        "rotation": 0,
+        "opacity": 1,
+        "align": "start",
+        "fit": false,
+        "wordWrap": true,
+        "cjkPunctuation": true,
+        "baseline": 22.88,
+        "flowWidths": [
+          600,
+          600,
+          600,
+          430
+        ],
+        "keepTogether": [
+          "调整"
+        ]
+      }
+    ],
+    "fontScale": 1,
+    "artwork": "/portfolio/artwork-3.webp",
+    "parallaxLayers": [
+      {
+        "name": "page-3-0",
+        "src": "/portfolio/layers/page-3-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-3-1",
+        "src": "/portfolio/layers/page-3-1.webp",
+        "parallax": {
+          "x": 0.75,
+          "y": 0.35
+        }
+      },
+      {
+        "name": "page-3-2",
+        "src": "/portfolio/layers/page-3-2.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-3-3",
+        "src": "/portfolio/layers/page-3-3.webp",
+        "parallax": {
+          "x": 1.1,
+          "y": 0.5
+        }
+      }
+    ],
+    "typographyRevision": "case-narrative-v3-flow"
+  },
+  {
+    "number": 4,
+    "width": 1659,
+    "height": 948,
+    "background": {
+      "type": "linear",
+      "angle": 90,
+      "gradient": [
+        {
+          "A": "#3a86c5"
+        },
+        {
+          "A": "#73b4e9",
+          "C": 0.5
+        },
+        {
+          "A": "#ddf3c0",
+          "C": 1
+        }
+      ]
+    },
+    "elements": [
+      {
+        "id": "LBVCrqxzyhj5XY6f",
+        "type": "image",
+        "x": 825.2427656030954,
+        "y": -18.5609743972164,
+        "width": 985.1219487944326,
+        "height": 985.1219487944326,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFoPtcMqMk.svg",
+        "crop": {
+          "D": 985.1219487944326,
+          "C": 985.1219487944326
+        },
+        "mediaId": "MAFoPtcMqMk",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBrvjq77Y27NNm4f",
+        "type": "image",
+        "x": 854.1424492459307,
+        "y": 609.6294244820126,
+        "width": 397.06806282722516,
+        "height": 379.20000000000005,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAG7u9ubh-0.svg",
+        "crop": {
+          "D": 397.06806282722516,
+          "C": 379.20000000000005
+        },
+        "mediaId": "MAG7u9ubh-0",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB5kFTFd0KP6v8Dz",
+        "type": "image",
+        "x": 951.9614759366996,
+        "y": 120.46142448201255,
+        "width": 599.136,
+        "height": 758.4,
+        "rotation": -90,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFBk-7CIY8.webp",
+        "crop": {
+          "A": 5.684341886080802e-14,
+          "D": 599.136,
+          "C": 758.4
+        },
+        "mediaId": "MAFBk-7CIY8",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB2J3pLwT4yV5N5Y",
+        "type": "image",
+        "x": 1421.8550999803742,
+        "y": -84.90700869681507,
+        "width": 294.8954350917869,
+        "height": 433.66975748792197,
+        "rotation": -32.61105617686549,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAGLonXHZCI.webp",
+        "crop": {
+          "A": 2.842170943040401e-14,
+          "D": 294.8954350917869,
+          "C": 433.66975748792197
+        },
+        "mediaId": "MAGLonXHZCI",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBZswyW11BxPbMGf",
+        "type": "image",
+        "x": 829.5,
+        "y": 131.92787004714592,
+        "width": 223.1764806595433,
+        "height": 245.24887984565197,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHGeVir68w.svg",
+        "crop": {
+          "D": 223.1764806595433,
+          "C": 245.24887984565197
+        },
+        "mediaId": "MAHGeVir68w",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBjnZyBly0k9yvVM",
+        "type": "image",
+        "x": 1485.580417115385,
+        "y": 587.9423170223542,
+        "width": 207.0331677121464,
+        "height": 360.0576829776459,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAGLomAZHEY.webp",
+        "crop": {
+          "A": 2.842170943040401e-14,
+          "D": 207.0331677121464,
+          "C": 360.0576829776459
+        },
+        "mediaId": "MAGLomAZHEY",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBdGf8q0mnfHBbyx",
+        "type": "group",
+        "x": 25.415740030015968,
+        "y": 183.79079607320628,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB0Gcz1YdbWsXRDV",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDf863rE.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDf863rE",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBLLCDCJVxsB6gDm",
+        "type": "group",
+        "x": 273.05959564108457,
+        "y": -33.27952557164937,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBWbxwFRw99MLn1c",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDbVh83k.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDbVh83k",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBzDQpWpFRZK7Zym",
+        "type": "group",
+        "x": 273.05959564108457,
+        "y": 467.8846136068772,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBc5FByjLTQvJW7P",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDW6yUmM.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDW6yUmM",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBc4g1kf5YlG6rWs",
+        "type": "group",
+        "x": 25.415740030015968,
+        "y": 684.954935251733,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBR6ZZcgnyDC3jtH",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDbGVOus.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDbGVOus",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LB81X50S38tVzGKq",
+        "type": "group",
+        "x": 520.703451252153,
+        "y": 223.41793041073663,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBBqHQzRptqWtnfQ",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDfX77-M.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDfX77-M",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBsL01LCt9S26wvJ",
+        "type": "group",
+        "x": 520.703451252153,
+        "y": 724.5820695892635,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBmLRf6dWtXlfQ4J",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDXRL14k.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDXRL14k",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBszN89wjXKgLbfG",
+        "type": "group",
+        "x": 25.415740030015968,
+        "y": -317.37334310532043,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LBR6bbzHs11HjHjl",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDTG4BiE.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDTG4BiE",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBnnYtBGGssWscWN",
+        "type": "group",
+        "x": 520.703451252153,
+        "y": -277.7462087677901,
+        "width": 247.64385561106837,
+        "height": 501.1641391785267,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 889.447,
+        "canvasHeight": 1800,
+        "children": [
+          {
+            "id": "LB264GldgyC4BMph",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 889.447,
+            "height": 1800,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYDYmgN04.webp",
+            "crop": {
+              "D": 889.447,
+              "C": 1800
+            },
+            "mediaId": "MAHYDYmgN04",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "case-narrative-4-title-v3-flow",
+        "type": "text",
+        "text": "音量工具——\n用户增长与商业化实践",
+        "x": 1020,
+        "y": 320,
+        "width": 510,
+        "height": 105,
+        "fontSize": 40,
+        "font": "serif",
+        "fontWeight": 500,
+        "color": "#214e70",
+        "lineHeight": 1.3,
+        "rotation": 0,
+        "opacity": 1,
+        "align": "start",
+        "fit": false,
+        "wordWrap": true,
+        "cjkPunctuation": true,
+        "baseline": 35.2
+      },
+      {
+        "id": "case-narrative-4-body-v3-flow",
+        "type": "text",
+        "text": "音量工具上线初期，面临使用需求小众、广告变现较弱的问题。通过竞品分析与使用场景梳理，增加相关功能，调整首次使用流程，并结合通知与悬浮窗触达，提升用户活跃与广告展示机会。在持续迭代过程中，次日留存从 10% 提升至 40%，日均 ROI 从 20% 提升至 150%。",
+        "x": 1020,
+        "y": 430,
+        "width": 520,
+        "height": 320,
+        "fontSize": 26,
+        "font": "serif",
+        "fontWeight": 400,
+        "color": "#214e70",
+        "lineHeight": 1.6,
+        "rotation": 0,
+        "opacity": 1,
+        "align": "start",
+        "fit": false,
+        "wordWrap": true,
+        "cjkPunctuation": true,
+        "baseline": 22.88,
+        "flowWidths": [
+          520,
+          520,
+          520,
+          520,
+          440
+        ]
+      }
+    ],
+    "fontScale": 1,
+    "artwork": "/portfolio/artwork-4.webp",
+    "parallaxLayers": [
+      {
+        "name": "page-4-0",
+        "src": "/portfolio/layers/page-4-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-4-1",
+        "src": "/portfolio/layers/page-4-1.webp",
+        "parallax": {
+          "x": 0.35,
+          "y": 0.16
+        }
+      },
+      {
+        "name": "page-4-2",
+        "src": "/portfolio/layers/page-4-2.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-4-3",
+        "src": "/portfolio/layers/page-4-3.webp",
+        "parallax": {
+          "x": 1.0,
+          "y": 0.5
+        }
+      },
+      {
+        "name": "page-4-4",
+        "src": "/portfolio/layers/page-4-4.webp",
+        "parallax": {
+          "x": 1.1,
+          "y": 0.5
+        }
+      }
+    ],
+    "typographyRevision": "case-narrative-v3-flow"
+  },
+  {
+    "number": 5,
+    "width": 1659,
+    "height": 948,
+    "background": {
+      "gradient": [
+        {
+          "A": "#b4a6e3"
+        },
+        {
+          "A": "#d5baee",
+          "C": 0.5
+        },
+        {
+          "A": "#b1d4f7",
+          "C": 1
+        }
+      ],
+      "center": 90,
+      "type": "linear",
+      "angle": 90
+    },
+    "elements": [
+      {
+        "id": "LBTMV04r0CYyC7y7",
+        "type": "image",
+        "x": -34.18157962089924,
+        "y": 701.6196856356268,
+        "width": 758.3520951134618,
+        "height": 523.2629456282887,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQfCi_8w.webp",
+        "crop": {
+          "B": 5.684341886080802e-14,
+          "D": 758.3520951134618,
+          "C": 523.2629456282887
+        },
+        "mediaId": "MAHYQfCi_8w",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBJNl2GT4LSl2x6P",
+        "type": "image",
+        "x": 642.6799425611107,
+        "y": 832.0216449098461,
+        "width": 371.61600000000004,
+        "height": 379.20000000000005,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHCD60V7YQ.svg",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -5.684341886080802e-14,
+          "D": 371.61600000000016,
+          "C": 379.20000000000016
+        },
+        "mediaId": "MAHCD60V7YQ",
+        "colors": {
+          "#0a65ff": "#b8dbff"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBqprkxpV6pK6S9l",
+        "type": "image",
+        "x": -248.2599319597266,
+        "y": 357.5292225686938,
+        "width": 686.1198639194533,
+        "height": 524.8816958983817,
+        "rotation": -103.90936670882984,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFkeb-RJ-A.svg",
+        "crop": {
+          "D": 686.1198639194533,
+          "C": 524.8816958983817
+        },
+        "mediaId": "MAFkeb-RJ-A",
+        "colors": {
+          "#000000": "#b8dbff"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB19dgFdhRMrm3xh",
+        "type": "image",
+        "x": -96.37375266849187,
+        "y": -80.13010897810886,
+        "width": 585.6741271808743,
+        "height": 404.1151477548032,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQfCi_8w.webp",
+        "crop": {
+          "B": 5.684341886080802e-14,
+          "D": 585.6741271808743,
+          "C": 404.1151477548033
+        },
+        "mediaId": "MAHYQfCi_8w",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB67C5Fk78TVM9f9",
+        "type": "image",
+        "x": 1340.4591038548565,
+        "y": 81.964296671542,
+        "width": 379.20000000000005,
+        "height": 379.20000000000005,
+        "rotation": -165.57127313228125,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAGbhaj_SkE.svg",
+        "crop": {
+          "D": 379.20000000000005,
+          "C": 379.20000000000005
+        },
+        "mediaId": "MAGbhaj_SkE",
+        "colors": {
+          "#000000": "#b8dbff"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBwhWTDDlB24Q97j",
+        "type": "image",
+        "x": 727.9625154925627,
+        "y": -103.84370332845793,
+        "width": 371.61600000000004,
+        "height": 379.20000000000005,
+        "rotation": 90,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHCD60V7YQ.svg",
+        "crop": {
+          "A": -5.684341886080802e-14,
+          "B": -5.684341886080802e-14,
+          "D": 371.61600000000016,
+          "C": 379.20000000000016
+        },
+        "mediaId": "MAHCD60V7YQ",
+        "colors": {
+          "#0a65ff": "#b8dbff"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB5JHJGGMq9bgVpK",
+        "type": "image",
+        "x": 383.7072269169581,
+        "y": 202.18216381419444,
+        "width": 158.5468965593214,
+        "height": 236.63715904376326,
+        "rotation": 109.2080793743421,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFU5YuJwEQ.svg",
+        "crop": {
+          "D": 158.5468965593214,
+          "C": 236.63715904376326
+        },
+        "mediaId": "MAFU5YuJwEQ",
+        "colors": {
+          "#020202": "#f3f5f0"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBlKtFLsfwQfzCQL",
+        "type": "vector",
+        "x": 314.7739496841185,
+        "y": 146.93112882133676,
+        "width": 1588.065745666808,
+        "height": 234.6,
+        "rotation": 1.8087305270269987,
+        "opacity": 1,
+        "canvasWidth": 1429.8,
+        "canvasHeight": 234.6,
+        "paths": [
+          {
+            "A": "m0,0m6,4c26.4,7.2 67.2,37.2 88.5,49c14.5,8.1 24,13.1 37.5,18.9c15.2,6.4 32.9,12.2 49.5,17.4c16.4,5.1 28,8.4 49.4,13.5c39.1,9.4 124.1,26.1 167,34.4c26.8,5.2 45.3,9.3 65.4,12c16.8,2.2 27.9,3 46.6,3.9c28,1.4 80.1,0.7 105.2,1.5c14,0.4 19.5,0.6 32.7,1.4c20.5,1.2 58.4,3.8 78,5.8c12,1.2 19.6,2.4 28.9,3.7c8.6,1.2 14.6,1.8 25,3.7c17.8,3.1 44.9,8.9 71.4,14.7c33.4,7.3 81.2,19.9 113.2,26.5c23.2,4.8 43,8.5 60.6,10.9c13.3,1.8 19.7,2.3 35.5,3.1c31.3,1.6 111.8,2.6 140.4,2.1c12.7,-0.2 17.3,1.3 27.4,-1.3c13.8,-3.6 31,-14 46.9,-23.3c18,-10.5 34.6,-22.2 54.9,-37.2c27.2,-19.9 83.2,-71.1 92.7,-73.6c1.4,-0.5 2.4,-0.2 2.8,0.4c0.4,0.5 0,2.4 -0.5,2.8c-0.4,0.4 -1.4,0.4 -1.9,0.2c-0.5,-0.3 -1.1,-1 -1.2,-1.5c-0.1,-0.6 0.2,-1.4 0.6,-1.8c0.4,-0.4 1.2,-0.7 1.8,-0.5c0.5,0.1 1.3,0.6 1.4,1.1c0.2,0.6 0.2,1.3 -0.6,2.4c-5,7.9 -65.5,53.8 -92.8,73.8c-20.5,15.1 -37.2,26.9 -55.4,37.5c-16.3,9.4 -34.2,20 -48.4,23.7c-10.2,2.6 -14.9,1.1 -27.7,1.3c-28.8,0.5 -109.3,-0.5 -140.8,-2.1c-15.9,-0.8 -22.3,-1.4 -35.8,-3.2c-17.7,-2.3 -37.5,-6.1 -60.8,-10.9c-31.9,-6.6 -79.7,-19.2 -113.1,-26.5c-26.4,-5.8 -49.1,-10.9 -71.2,-14.6c-19.1,-3.3 -32.5,-5.3 -53.6,-7.4c-30.2,-3.1 -75.8,-5.9 -110.5,-7.2c-30.8,-1.2 -64.4,-0.3 -87.6,-1c-15.3,-0.4 -26.5,-0.8 -38,-1.7c-9.7,-0.7 -17.9,-1.6 -26.8,-2.8c-9,-1.2 -13.9,-2 -27.2,-4.5c-36.6,-6.7 -170.7,-34.1 -205.4,-41.9c-11.9,-2.7 -14.4,-3.2 -23.8,-5.8c-13.8,-3.8 -37.1,-11.1 -51,-15.9c-9.8,-3.4 -16.4,-5.8 -24.8,-9.5c-9.1,-3.9 -16.2,-7.1 -27.9,-13.5c-21.1,-11.5 -70.6,-46.7 -86.2,-52.5c-5.2,-1.9 -9.5,-0.5 -11.2,-1.7c-0.8,-0.6 -1.2,-1.4 -1.1,-2c0.1,-0.7 2,-1.8 2,-1.8",
+            "B": {
+              "K": {
+                "A?": "A",
+                "A": [
+                  {
+                    "A": "#0571d3"
+                  },
+                  {
+                    "A": "#f9b3ff",
+                    "C": 1
+                  }
+                ],
+                "B": 135
+              }
+            },
+            "C": {
+              "B": "#0571d3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "LBGCWMZvcGb6Btsn",
+        "type": "vector",
+        "x": -303.00442553338837,
+        "y": 483.0820141514692,
+        "width": 2013.501804943452,
+        "height": 95.4,
+        "rotation": -4.574265593596159,
+        "opacity": 1,
+        "canvasWidth": 1441,
+        "canvasHeight": 95.4,
+        "paths": [
+          {
+            "A": "m0,0m5.9,9.1c89.8,-6.2 141.4,-6.6 168.3,-5.1c15.9,1 20.4,1.9 37.8,4.4c39.6,5.7 144.6,25.7 193.8,33.4c30.1,4.7 52.7,8.3 73.1,10.3c14.4,1.5 23.2,1.8 37.2,2.3c18.2,0.6 40.9,0.6 62.9,0.8c24,0.1 52.4,0.6 75.5,0.1c19.4,-0.4 39.6,-1.2 53.7,-2.4c9.1,-0.8 12.1,-1.3 22.6,-2.8c24.4,-3.5 84.5,-14.9 121.1,-20c30.3,-4.3 57.7,-7.4 83.2,-9.8c21.6,-2 39.7,-3.3 60,-4.4c20.7,-1.1 40,-1.8 62.9,-2.2c27.7,-0.6 69.8,-1.5 91.7,-0.1c12.4,0.8 18.8,2 28.9,3.8c11.4,2.1 23.4,5.2 36.1,8.5c14.4,3.7 28.9,8.8 45.6,12.9c20,4.9 41.8,7.4 66.5,13.9c32,8.4 101.4,29.4 108.8,34.8c1.1,0.8 1.4,1.3 1.4,2c0,0.5 -0.5,1.3 -0.9,1.6c-0.5,0.3 -1.4,0.4 -1.9,0.1c-0.6,-0.3 -1.3,-1.5 -1.2,-2.1c0.1,-0.6 1.1,-1.6 1.8,-1.7c0.5,-0.1 1.4,0.2 1.7,0.7c0.4,0.5 0.5,1.8 0.2,2.4c-0.3,0.5 -0.6,0.8 -1.7,0.9c-7.9,0.8 -76.9,-26.4 -109,-34.8c-24.8,-6.5 -46.8,-9 -66.9,-13.9c-16.6,-4.1 -31.1,-9.2 -45.3,-12.9c-12.6,-3.3 -24.5,-6.4 -35.8,-8.4c-10,-1.9 -15.6,-3 -28.4,-3.8c-26.5,-1.7 -84.6,-0.6 -122.4,0.7c-32.8,1.2 -61.9,3.3 -91.7,6c-28.4,2.6 -52.8,5.4 -83,9.7c-36.6,5.2 -96.7,16.5 -121.2,20.1c-10.6,1.5 -13.7,2 -22.9,2.8c-14.2,1.2 -32.8,2 -54,2.4c-30.2,0.6 -78.3,0.4 -110.4,-0.4c-24.7,-0.6 -45.9,-1.1 -65.6,-2.8c-16.2,-1.4 -23.6,-2.7 -44.2,-5.7c-48.6,-7.3 -196.1,-35.9 -243.9,-41c-19.7,-2.2 -26.8,-1.7 -42.1,-2.1c-18.2,-0.3 -44.7,0.2 -60,0.4c-9.4,0.1 -13.5,0 -23,0.5c-15.1,0.8 -52.9,6.8 -59.1,4.9c-1.3,-0.4 -2,-1 -2.1,-1.6c0,-0.7 1.9,-2.4 1.9,-2.4",
+            "B": {
+              "K": {
+                "A?": "A",
+                "A": [
+                  {
+                    "A": "#f9b3ff"
+                  },
+                  {
+                    "A": "#0571d3",
+                    "C": 1
+                  }
+                ],
+                "B": 135
+              }
+            },
+            "C": {
+              "B": "#0571d3"
+            }
+          }
+        ]
+      },
+      {
+        "id": "LBbKMkyv4dbY45Ht",
+        "type": "image",
+        "x": -26.95990022516048,
+        "y": -22.271588840648633,
+        "width": 883.8775692615396,
+        "height": 185.78735642846007,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHNcMjYskM.webp",
+        "crop": {
+          "A": -618.7603107075422,
+          "B": 5.684341886080802e-14,
+          "D": 883.8775692615396,
+          "C": 883.8775692615396
+        },
+        "mediaId": "MAHNcMjYskM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB35qHFXzcD4CDxB",
+        "type": "image",
+        "x": 163.55389129337965,
+        "y": 12.446149088309085,
+        "width": 117.83430242961175,
+        "height": 151.06961849950227,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OTX4dzA.webp",
+        "crop": {
+          "B": 2.842170943040401e-14,
+          "D": 117.83430242961175,
+          "C": 151.0696184995023
+        },
+        "mediaId": "MAF-OTX4dzA",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBPtL8ZpZGH5dQFN",
+        "type": "image",
+        "x": -21.569997175508604,
+        "y": 37.54741752856319,
+        "width": 139.1238884688882,
+        "height": 123.12464129496605,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OM7QRFg.webp",
+        "crop": {
+          "A": -3.552713678800501e-14,
+          "B": -5.684341886080802e-14,
+          "D": 139.12388846888828,
+          "C": 123.12464129496612
+        },
+        "mediaId": "MAF-OM7QRFg",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBKs7HdJ56PDk5P8",
+        "type": "image",
+        "x": 802.0823309636207,
+        "y": -22.271588840648633,
+        "width": 883.8775692615396,
+        "height": 185.78735642846004,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHNcMjYskM.webp",
+        "crop": {
+          "A": -618.7603107075421,
+          "B": -5.684341886080802e-14,
+          "D": 883.8775692615396,
+          "C": 883.8775692615396
+        },
+        "mediaId": "MAHNcMjYskM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB7NQ84lgXrC49gg",
+        "type": "image",
+        "x": 357.38819372299133,
+        "y": 41.33602424108892,
+        "width": 172.024208921533,
+        "height": 108.3752516205658,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OaHpsMg.webp",
+        "crop": {
+          "A": 7.105427357601002e-15,
+          "D": 172.02420892153302,
+          "C": 108.3752516205658
+        },
+        "mediaId": "MAF-OaHpsMg",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBNzzyR3m2xyxbv3",
+        "type": "image",
+        "x": 575.4124026445243,
+        "y": 2.843708764281814,
+        "width": 93.26910608814374,
+        "height": 160.80880360024784,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OQu2NKk.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "B": 1.4210854715202004e-14,
+          "D": 93.26910608814374,
+          "C": 160.80880360024784
+        },
+        "mediaId": "MAF-OQu2NKk",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBvVmFKLlZ2zFmCl",
+        "type": "image",
+        "x": 729.9537065811107,
+        "y": 2.843708764281814,
+        "width": 151.8350955882352,
+        "height": 160.6720588235293,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OE0wmig.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "B": 1.4210854715202004e-14,
+          "D": 151.8350955882352,
+          "C": 160.6720588235293
+        },
+        "mediaId": "MAF-OE0wmig",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBHzHdDjcNLkn20F",
+        "type": "image",
+        "x": 937.383247418591,
+        "y": 0,
+        "width": 94.79651470588242,
+        "height": 160.6720588235295,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OTEAfyY.webp",
+        "crop": {
+          "A": -2.842170943040401e-14,
+          "B": -2.842170943040401e-14,
+          "D": 94.79651470588246,
+          "C": 160.6720588235296
+        },
+        "mediaId": "MAF-OTEAfyY",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBlbTl68n4cz91mM",
+        "type": "image",
+        "x": 1101.1797621244734,
+        "y": 0,
+        "width": 85.15619117647053,
+        "height": 160.67205882352928,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OAzTKzU.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "D": 85.15619117647053,
+          "C": 160.67205882352928
+        },
+        "mediaId": "MAF-OAzTKzU",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBK75LXqmFM0wnYh",
+        "type": "image",
+        "x": 1244.0211155943905,
+        "y": 2.980453541000088,
+        "width": 92.21469415410131,
+        "height": 154.98267925059042,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OSgeIm0.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "B": 7.105427357601002e-15,
+          "D": 92.21469415410131,
+          "C": 154.98267925059042
+        },
+        "mediaId": "MAF-OSgeIm0",
+        "colors": {},
+        "flipX": true,
+        "flipY": false
+      },
+      {
+        "id": "LB3Ptrwx98lkTbPj",
+        "type": "image",
+        "x": 1382.2358097484919,
+        "y": 48.53500245505768,
+        "width": 145.63254073827508,
+        "height": 112.13705636847183,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-OGnLdys.webp",
+        "crop": {
+          "A": 7.105427357601002e-15,
+          "D": 145.63254073827508,
+          "C": 112.13705636847183
+        },
+        "mediaId": "MAF-OGnLdys",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBQdfTrShwQXj1GY",
+        "type": "image",
+        "x": 1548.1630098108617,
+        "y": 2.980453541000088,
+        "width": 70.96122237713814,
+        "height": 157.6916052825292,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAF-Ocn5mxI.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "D": 70.96122237713814,
+          "C": 157.6916052825292
+        },
+        "mediaId": "MAF-Ocn5mxI",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBJmJLtftXcGMNLV",
+        "type": "image",
+        "x": 863.4904116380519,
+        "y": 497.5262970637872,
+        "width": 215.04404722702702,
+        "height": 424.7103601758882,
+        "rotation": -6.929860944729358,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCi4zhPQ.jpg",
+        "crop": {
+          "A": -20.85645989396579,
+          "D": 215.04404722702702,
+          "C": 477.8756605045045
+        },
+        "mediaId": "MAHYCi4zhPQ",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBDQDVyk1c5QGDFc",
+        "type": "image",
+        "x": 910.8139198823452,
+        "y": 415.0282926482172,
+        "width": 91.40614639526336,
+        "height": 117.94341470356564,
+        "rotation": 6.720028024315458,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHPt8PBUJU.svg",
+        "crop": {
+          "D": 91.40614639526336,
+          "C": 117.94341470356564
+        },
+        "mediaId": "MAHPt8PBUJU",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBQv1lXVTkVXhmMG",
+        "type": "image",
+        "x": 579.0420453103353,
+        "y": 245.05131246680924,
+        "width": 249.40886325600454,
+        "height": 249.40886325600454,
+        "rotation": 11.15295696578723,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQlBCf0E.webp",
+        "crop": {
+          "A": -2.842170943040401e-14,
+          "B": -2.842170943040401e-14,
+          "D": 249.4088632560046,
+          "C": 249.4088632560046
+        },
+        "mediaId": "MAHYQlBCf0E",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBZr2WyxWXw5lKHB",
+        "type": "image",
+        "x": 658.9081947325153,
+        "y": 211.02801708152936,
+        "width": 108.96530326202266,
+        "height": 121.0725591800252,
+        "rotation": 58.621305581890546,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAEoFTV1YYg.svg",
+        "crop": {
+          "A": -7.105427357601002e-15,
+          "B": -2.1316282072803006e-14,
+          "D": 108.9653032620227,
+          "C": 121.07255918002521
+        },
+        "mediaId": "MAEoFTV1YYg",
+        "colors": {
+          "#1500a2": "#81bfe5",
+          "#beb4dd": "#f3f5f0",
+          "#ebd70b": "#addcff"
+        },
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBJBLG6DrxZK7zwH",
+        "type": "image",
+        "x": 1120.0943101905311,
+        "y": 470.17682842180864,
+        "width": 222.90820420144334,
+        "height": 440.2420104780144,
+        "rotation": -2.9785788217303226,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCpHoM3M.jpg",
+        "crop": {
+          "A": -21.61918026056864,
+          "D": 222.90820420144334,
+          "C": 495.35156489209635
+        },
+        "mediaId": "MAHYCpHoM3M",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBFj6c65j0hSLCSJ",
+        "type": "image",
+        "x": 1172.6914002468993,
+        "y": 402.04906339851163,
+        "width": 109.16310178033824,
+        "height": 84.05558837086045,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQoXDu-4.webp",
+        "crop": {
+          "A": 7.105427357601002e-15,
+          "D": 109.16310178033824,
+          "C": 84.05558837086045
+        },
+        "mediaId": "MAHYQoXDu-4",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBBMQ0r2Pn7sJfVr",
+        "type": "image",
+        "x": 1388.8631465002438,
+        "y": 476.3630305453057,
+        "width": 219.3123617718541,
+        "height": 436.2949351842664,
+        "rotation": 1.7544253205941085,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQnpr0I4.webp",
+        "crop": {
+          "A": -16.590381598716448,
+          "D": 219.3123617718541,
+          "C": 487.3608039374536
+        },
+        "mediaId": "MAHYQnpr0I4",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBTFCzFgJhJR2Vdc",
+        "type": "image",
+        "x": 612.072226603358,
+        "y": 547.1575058976612,
+        "width": 202.63723952033735,
+        "height": 385.6008362316415,
+        "rotation": -5.793648866405753,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYQjhZUCU.webp",
+        "crop": {
+          "A": -29.91393846318519,
+          "B": 2.842170943040401e-14,
+          "D": 202.63723952033735,
+          "C": 450.30497671186066
+        },
+        "mediaId": "MAHYQjhZUCU",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBqTGX8ZVzHFBxRv",
+        "type": "image",
+        "x": 1482.1652772891352,
+        "y": 397.13897306409484,
+        "width": 91.40614639526336,
+        "height": 117.94341470356564,
+        "rotation": 22.003155655293014,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHPt8PBUJU.svg",
+        "crop": {
+          "D": 91.40614639526336,
+          "C": 117.94341470356564
+        },
+        "mediaId": "MAHPt8PBUJU",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBCKHXT6yvWnz7Zr",
+        "type": "image",
+        "x": 665.9490204779166,
+        "y": 484.2341692134029,
+        "width": 39.186742088110705,
+        "height": 107.36093722770056,
+        "rotation": -92.25260621470704,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHNW2KJMYw.webp",
+        "crop": {
+          "A": 1.4210854715202004e-14,
+          "D": 39.186742088110705,
+          "C": 107.36093722770056
+        },
+        "mediaId": "MAHNW2KJMYw",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBDdpJxgZrbwpWsf",
+        "type": "text",
+        "x": 39.640741502455995,
+        "y": 415.63866395478067,
+        "width": 487.8764111772495,
+        "height": 140.93197562918266,
+        "rotation": -4.654094942190735,
+        "opacity": 1,
+        "text": "动作分析",
+        "fontSize": 117.797,
+        "color": "#f3f5f0",
+        "align": "center",
+        "font": "serif",
+        "lineHeight": 0.8,
+        "lines": [
+          5
+        ],
+        "sourceFontId": "YAFR6Eb_muc",
+        "effects": [
+          {
+            "A": "shadow",
+            "B": {
+              "angle": "65",
+              "blur": "0.76",
+              "color": "#5e17eb",
+              "offset": "0.6",
+              "transparency": "0.51"
+            }
+          }
+        ],
+        "fontFamily": "Portfolio Hand",
+        "fit": false,
+        "shadow": [
+          {
+            "x": 3,
+            "y": 4,
+            "color": "#846bb666"
+          }
+        ]
+      },
+      {
+        "id": "LByKBj1q3L2TJpxS",
+        "type": "text",
+        "x": 113.56276971401766,
+        "y": 180.6,
+        "width": 325.43140032542334,
+        "height": 303.98340660675876,
+        "rotation": 10.030890807834645,
+        "opacity": 1,
+        "text": "AI+",
+        "fontSize": 253.681,
+        "color": "#f3f5f0",
+        "align": "center",
+        "font": "script",
+        "lineHeight": 0.8,
+        "lines": [
+          4
+        ],
+        "sourceFontId": "YACgERFuAbY",
+        "effects": [
+          {
+            "A": "shadow",
+            "B": {
+              "angle": "65",
+              "blur": "0.76",
+              "color": "#5e17eb",
+              "offset": "0.6",
+              "transparency": "0.51"
+            }
+          }
+        ],
+        "fontFamily": "Portfolio Jeepers",
+        "fit": false,
+        "shadow": [
+          {
+            "x": 3,
+            "y": 4,
+            "color": "#846bb666"
+          }
+        ],
+        "baseline": 203
+      },
+      {
+        "id": "case-narrative-5-body-v3-flow",
+        "type": "text",
+        "text": "围绕健身动作是否规范的判断需求，早期尝试直接使用 AI 分析训练视频，但发现 Token 消耗较高。随后引入 MediaPipe 提取人体骨骼关键点，结合关节角度建立动作标准库，将视频转化为量化数据，再由 AI 生成文字反馈，以降低分析成本。",
+        "x": 94,
+        "y": 600,
+        "width": 468,
+        "height": 320,
+        "fontSize": 26,
+        "font": "serif",
+        "fontWeight": 400,
+        "color": "#214e70",
+        "lineHeight": 1.6,
+        "rotation": 0,
+        "opacity": 1,
+        "align": "justify",
+        "fit": false,
+        "wordWrap": true,
+        "cjkPunctuation": true,
+        "baseline": 22.88,
+        "flowWidths": [
+          468
+        ],
+        "keepTogether": [
+          "文字反馈",
+          "提取",
+          "动作"
+        ]
+      }
+    ],
+    "fontScale": 1,
+    "artwork": "/portfolio/artwork-5.webp",
+    "parallaxLayers": [
+      {
+        "name": "page-5-0",
+        "src": "/portfolio/layers/page-5-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-5-1",
+        "src": "/portfolio/layers/page-5-1.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-5-2",
+        "src": "/portfolio/layers/page-5-2.webp",
+        "parallax": {
+          "x": 0.7,
+          "y": 0.3
+        }
+      },
+      {
+        "name": "page-5-3",
+        "src": "/portfolio/layers/page-5-3.webp",
+        "parallax": {
+          "x": 1.1,
+          "y": 0.5
+        }
+      }
+    ],
+    "typographyRevision": "case-narrative-v3-flow"
+  },
+  {
+    "number": 6,
+    "width": 1659,
+    "height": 948,
+    "background": "#9c4d04",
+    "elements": [
+      {
+        "id": "LBDLym6GHdW8phm9",
+        "type": "image",
+        "x": -48.49771314939085,
+        "y": -428.42431855094856,
+        "width": 1755.9954262987817,
+        "height": 1755.9954262987817,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAFLSZfobAQ.svg",
+        "crop": {
+          "D": 1755.9954262987817,
+          "C": 1755.9954262987817
+        },
+        "mediaId": "MAFLSZfobAQ",
+        "colors": {
+          "#ffff49": "#d18036"
+        },
+        "flipX": true,
+        "flipY": false
+      },
+      {
+        "id": "LBbrn5V7LgVNGhxF",
+        "type": "group",
+        "x": 276.03801169590645,
+        "y": 136.93622076023388,
+        "width": 1050.0576819465125,
+        "height": 625.2743476764166,
+        "rotation": 0,
+        "opacity": 1,
+        "canvasWidth": 1800,
+        "canvasHeight": 1071.84,
+        "children": [
+          {
+            "id": "LBjbk9l27GrtK0hT",
+            "type": "image",
+            "x": 0,
+            "y": 0,
+            "width": 1800,
+            "height": 1071.84,
+            "rotation": 0,
+            "opacity": 1,
+            "src": "/portfolio/assets/MAHYC7QqGSU.webp",
+            "crop": {
+              "D": 1800,
+              "C": 1071.84
+            },
+            "mediaId": "MAHYC7QqGSU",
+            "colors": {},
+            "flipX": false,
+            "flipY": false
+          }
+        ]
+      },
+      {
+        "id": "LBDPLDMSV4lzswh8",
+        "type": "image",
+        "x": 561.5775090926285,
+        "y": 271.72753000000006,
+        "width": 110.94407150332833,
+        "height": 110.94407150332833,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-sjw7Ck-original-preview.webp",
+        "crop": {
+          "D": 110.94407150332833,
+          "C": 110.94407150332833
+        },
+        "mediaId": "MAHX-sjw7Ck",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBF5R8XQTyTpFR7n",
+        "type": "image",
+        "x": 660.0619758840545,
+        "y": 464.35131735205243,
+        "width": 110.94407150332833,
+        "height": 110.94407150332833,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-kV84iw-original-preview.webp",
+        "crop": {
+          "D": 110.94407150332833,
+          "C": 110.94407150332833
+        },
+        "mediaId": "MAHX-kV84iw",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB7XFtNZxfjVT5mV",
+        "type": "image",
+        "x": 772.0060473873829,
+        "y": 480.5835065422042,
+        "width": 77.34230626616927,
+        "height": 78.47969312302469,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-iiOixk-original-preview.webp",
+        "crop": {
+          "D": 77.34230626616927,
+          "C": 78.47969312302469
+        },
+        "mediaId": "MAHX-iiOixk",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBzYNH9pZk670XbF",
+        "type": "image",
+        "x": 568.2937816047273,
+        "y": 474.4964355958973,
+        "width": 90.65383501563858,
+        "height": 90.65383501563858,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC1pmFb4-original-preview.webp",
+        "crop": {
+          "D": 90.65383501563858,
+          "C": 90.65383501563858
+        },
+        "mediaId": "MAHYC1pmFb4",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBhQRcTdGT7Tv21t",
+        "type": "image",
+        "x": 768.103858737638,
+        "y": 282.6810843017455,
+        "width": 86.80824437246018,
+        "height": 86.80824437246018,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCxtyTvM-original-preview.webp",
+        "crop": {
+          "D": 86.80824437246018,
+          "C": 86.80824437246018
+        },
+        "mediaId": "MAHYCxtyTvM",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBdbKr5TRmYq6zlX",
+        "type": "image",
+        "x": 960.7109321729289,
+        "y": 468.7764888859428,
+        "width": 97.75449899289671,
+        "height": 97.75449899289671,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCwkbcl0-original-preview.webp",
+        "crop": {
+          "D": 97.75449899289671,
+          "C": 97.75449899289671
+        },
+        "mediaId": "MAHYCwkbcl0",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBY8ndk4N5mJMHDJ",
+        "type": "image",
+        "x": 864.851478030572,
+        "y": 470.15720615324653,
+        "width": 94.99306445828937,
+        "height": 94.99306445828937,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCywWAT8-original-preview.webp",
+        "crop": {
+          "D": 94.99306445828937,
+          "C": 94.99306445828937
+        },
+        "mediaId": "MAHYCywWAT8",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB2LhYfCwvjxKfWF",
+        "type": "image",
+        "x": 868.2803237623181,
+        "y": 282.6810843017455,
+        "width": 86.80824437246012,
+        "height": 86.80824437246012,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYCwVmVjc-original-preview.webp",
+        "crop": {
+          "D": 86.80824437246012,
+          "C": 86.80824437246012
+        },
+        "mediaId": "MAHYCwVmVjc",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBX3JkK27NfqvWpY",
+        "type": "image",
+        "x": 963.8253727136045,
+        "y": 276.77049205595,
+        "width": 98.79314578881147,
+        "height": 98.79314578881147,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC8Oy5_0-original-preview.webp",
+        "crop": {
+          "D": 98.79314578881147,
+          "C": 98.79314578881147
+        },
+        "mediaId": "MAHYC8Oy5_0",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBJdTxZrDcM6ZZDz",
+        "type": "image",
+        "x": 663.8477891936708,
+        "y": 279.98135970308033,
+        "width": 95.58227814168113,
+        "height": 95.58227814168113,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC1sSIbs-original-preview.webp",
+        "crop": {
+          "D": 95.58227814168113,
+          "C": 95.58227814168113
+        },
+        "mediaId": "MAHYC1sSIbs",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBfZHBzB5Q3gvdZQ",
+        "type": "image",
+        "x": 564.9356453486779,
+        "y": 375.5636378447615,
+        "width": 97.3701075277375,
+        "height": 97.3701075277375,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC70JKuc-original-preview.webp",
+        "crop": {
+          "D": 97.3701075277375,
+          "C": 97.3701075277375
+        },
+        "mediaId": "MAHYC70JKuc",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB8cnBcynTR3VmrB",
+        "type": "image",
+        "x": 654.0474440470609,
+        "y": 374.0715114347073,
+        "width": 105.38262328829097,
+        "height": 105.38262328829097,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC04iRa0-original-preview.webp",
+        "crop": {
+          "D": 105.38262328829097,
+          "C": 105.38262328829097
+        },
+        "mediaId": "MAHYC04iRa0",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB6Htc1zVjG8LSBK",
+        "type": "image",
+        "x": 755.9158901544348,
+        "y": 371.55737996448465,
+        "width": 107.89675475851362,
+        "height": 107.89675475851362,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC5qfeeQ-original-preview.webp",
+        "crop": {
+          "D": 107.89675475851362,
+          "C": 107.89675475851362
+        },
+        "mediaId": "MAHYC5qfeeQ",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBt190vVmWq8WdrT",
+        "type": "image",
+        "x": 859.6408062938785,
+        "y": 372.15640839876727,
+        "width": 104.18456641972593,
+        "height": 104.18456641972593,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC85PxNg-original-preview.webp",
+        "crop": {
+          "D": 104.18456641972593,
+          "C": 104.18456641972593
+        },
+        "mediaId": "MAHYC85PxNg",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBbMKrNqcNmkycLl",
+        "type": "image",
+        "x": 957.8126449129484,
+        "y": 372.7899013056354,
+        "width": 103.55107351285778,
+        "height": 103.55107351285778,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHYC8GPEm4-original-preview.webp",
+        "crop": {
+          "D": 103.55107351285778,
+          "C": 103.55107351285778
+        },
+        "mediaId": "MAHYC8GPEm4",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBrwl1HpLzqxkX0p",
+        "type": "text",
+        "x": 432.8159439562497,
+        "y": 583.2953888553808,
+        "width": 1610.8431661605784,
+        "height": 387.9168403513961,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "skills",
+        "fontSize": 323.42056115899425,
+        "color": "#ffd200",
+        "align": "center",
+        "font": "script",
+        "lineHeight": 0.97,
+        "lines": [
+          7
+        ],
+        "sourceFontId": "YAFBcV2aT9Y",
+        "effects": [
+          {
+            "A": "echo",
+            "B": {
+              "angle": "-45",
+              "color": "#ff5055",
+              "offset": "1"
+            }
+          }
+        ],
+        "fontFamily": "Portfolio Laries",
+        "fit": false,
+        "baseline": 265.2048601503753,
+        "shadow": [
+          {
+            "x": 27,
+            "y": 27,
+            "color": "#ff50558c"
+          },
+          {
+            "x": 14,
+            "y": 14,
+            "color": "#ff5055b3"
+          }
+        ]
+      },
+      {
+        "id": "LBl3yCJCxRstvq1V",
+        "type": "text",
+        "x": -406.7814814975842,
+        "y": 75.4962573520524,
+        "width": 1469.4,
+        "height": 353.85506,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "My",
+        "fontSize": 295.022,
+        "color": "#ffd200",
+        "align": "center",
+        "font": "script",
+        "lineHeight": 0.97,
+        "lines": [
+          3
+        ],
+        "sourceFontId": "YAFBcV2aT9Y",
+        "effects": [
+          {
+            "A": "echo",
+            "B": {
+              "angle": "-45",
+              "color": "#ff5055",
+              "offset": "1"
+            }
+          }
+        ],
+        "fontFamily": "Portfolio Laries",
+        "fit": false,
+        "baseline": 241.91804,
+        "shadow": [
+          {
+            "x": 27,
+            "y": 27,
+            "color": "#ff50558c"
+          },
+          {
+            "x": 14,
+            "y": 14,
+            "color": "#ff5055b3"
+          }
+        ]
+      }
+    ],
+    "fontScale": 1,
+    "artwork": "/portfolio/artwork-6.webp",
+    "parallaxLayers": [
+      {
+        "name": "page-6-0",
+        "src": "/portfolio/layers/page-6-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-6-1",
+        "src": "/portfolio/layers/page-6-1.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-6-2",
+        "src": "/portfolio/layers/page-6-2.webp",
+        "parallax": {
+          "x": 1.1,
+          "y": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "width": 1659,
+    "height": 948,
+    "background": "#476fac",
+    "elements": [
+      {
+        "id": "LBSTRfhyq0YFczpH",
+        "type": "image",
+        "x": 193.79985158373472,
+        "y": -12.204765776363786,
+        "width": 1271.400296832531,
+        "height": 801.5388014998003,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/original-contact-hands.webp",
+        "crop": {
+          "D": 1271.400296832531,
+          "C": 801.5388014998003
+        },
+        "mediaId": "MAHX-e0Lfuo",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBBgBwGCbPh5YbmL",
+        "type": "image",
+        "x": 344.0462096089762,
+        "y": 762.620207828665,
+        "width": 90.57979217133501,
+        "height": 90.57979217133501,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-WyTGo0-original-preview.webp",
+        "crop": {
+          "D": 90.57979217133501,
+          "C": 90.57979217133501
+        },
+        "mediaId": "MAHX-WyTGo0",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBVw0dRBWB7WQkCW",
+        "type": "image",
+        "x": 633.0556559584134,
+        "y": 762.6202078286649,
+        "width": 90.57979217133504,
+        "height": 90.57979217133504,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-swj-So-original-preview.webp",
+        "crop": {
+          "D": 90.57979217133504,
+          "C": 90.57979217133504
+        },
+        "mediaId": "MAHX-swj-So",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LBDgrsFfLghQd09J",
+        "type": "image",
+        "x": 967.261852820511,
+        "y": 762.6202078286649,
+        "width": 90.57979217133504,
+        "height": 90.57979217133504,
+        "rotation": 0,
+        "opacity": 1,
+        "src": "/portfolio/assets/MAHX-sTFlqI-original-preview.webp",
+        "crop": {
+          "D": 90.57979217133504,
+          "C": 90.57979217133504
+        },
+        "mediaId": "MAHX-sTFlqI",
+        "colors": {},
+        "flipX": false,
+        "flipY": false
+      },
+      {
+        "id": "LB0mW3hlBbNy8PHk",
+        "type": "text",
+        "x": 450.61236825542846,
+        "y": 789.8339437483088,
+        "width": 111.68532337730716,
+        "height": 36.15232033204744,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "@夏末集",
+        "fontSize": 34.6667,
+        "color": "#ffffff",
+        "align": "center",
+        "font": "serif",
+        "lineHeight": 1.1,
+        "lines": [
+          5
+        ]
+      },
+      {
+        "id": "LB1Fc2qMZyFC4460",
+        "type": "text",
+        "x": 734.1994395520985,
+        "y": 789.8339437483088,
+        "width": 162.30444894273487,
+        "height": 36.15232033204744,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "15829656440",
+        "fontSize": 34.6667,
+        "color": "#ffffff",
+        "align": "center",
+        "font": "serif",
+        "lineHeight": 1.1,
+        "lines": [
+          12
+        ]
+      },
+      {
+        "id": "LBbnxTccb42yClwy",
+        "type": "text",
+        "x": 1068.4056364141961,
+        "y": 789.8339437483088,
+        "width": 246.54815397682782,
+        "height": 36.15232033204744,
+        "rotation": 0,
+        "opacity": 1,
+        "text": "1711363741@qq.com",
+        "fontSize": 34.6667,
+        "color": "#ffffff",
+        "align": "center",
+        "font": "serif",
+        "lineHeight": 1.1,
+        "lines": [
+          18
+        ]
+      }
+    ],
+    "artwork": "/portfolio/artwork-7.webp",
+    "fontScale": 0.75,
+    "parallaxLayers": [
+      {
+        "name": "page-7-0",
+        "src": "/portfolio/layers/page-7-0.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "name": "page-7-1",
+        "src": "/portfolio/layers/page-7-1.webp",
+        "parallax": {
+          "x": 0.9,
+          "y": 0.4
+        }
+      },
+      {
+        "name": "page-7-2",
+        "src": "/portfolio/layers/page-7-2.webp",
+        "parallax": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  }
+]
