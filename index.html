@@ -4,7 +4,22 @@
   <script>window.__portfolioBootData={pages:fetch('/portfolio/pages.json?v=37ce8ffd14e5').then(r=>{if(!r.ok)throw Error('书页配置加载失败');return r.json()}),copy:fetch('/portfolio/profile/content.json?v=37ce8ffd14e5').then(r=>{if(!r.ok)throw Error('个人介绍加载失败');return r.json()})};Object.values(window.__portfolioBootData).forEach(p=>p.catch(()=>{}));</script>
 
   <meta charset="UTF-8">
-  <script src="/theme-bootstrap.js"></script>
+  <script>// Blocking head script: establish a complete palette before any page content paints.
+(function () {
+  var colors = {background:'#e8eef5',text:'#28394e',muted:'#596a80',accent:'#365d8c',surface:'#d4e0ef',onSurface:'#28394e',border:'#97abc4'};
+  try {
+    var saved = JSON.parse(localStorage.getItem('htwkr-theme-v1'));
+    if (saved && saved.version === 1 && typeof saved.name === 'string' && saved.name.length <= 60 && saved.colors &&
+        Object.keys(colors).every(function (key) { return /^#[\da-f]{6}$/i.test(saved.colors[key]); }) &&
+        (saved.pageBrightness === undefined || (typeof saved.pageBrightness === 'number' && Number.isFinite(saved.pageBrightness) && saved.pageBrightness >= .7 && saved.pageBrightness <= 1.6))) colors = saved.colors;
+  } catch (_) { /* Storage may be blocked or malformed; retain the complete default. */ }
+  var style = document.documentElement.style;
+  Object.keys(colors).forEach(function (key) { style.setProperty('--theme-' + key, colors[key]); });
+  style.setProperty('--color-bg', colors.background);
+  style.setProperty('--color-text', colors.text);
+  style.setProperty('--preview-background', colors.background);
+}());
+</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>薛美静 · Selected Works</title>
   <meta name="description" content="薛美静的个人作品集：从真实问题出发，把想法做成有用的产品。AI 应用、产品设计与用户增长。">
@@ -15,22 +30,21 @@
   <link rel="icon" type="image/svg+xml" href="/portfolio/favicon.svg">
   <link rel="apple-touch-icon" href="/portfolio/apple-touch-icon.png">
   <meta name="theme-color" content="#e8eef5">
-  <script type="module" crossorigin src="/assets/main-EOzVy1eG.js"></script>
+  <script type="module" crossorigin src="/assets/main-CVfRzv9b.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/modulepreload-polyfill-B5Qt9EMX.js">
   <link rel="modulepreload" crossorigin href="/assets/motion-config-Co9MOcUi.js">
   <link rel="modulepreload" crossorigin href="/assets/theme-B_pJRt1M.js">
-  <link rel="stylesheet" crossorigin href="/assets/main-Cse10rRu.css">
-  <link rel="preload" as="image" href="/portfolio/profile/background.webp?v=original-20261019" fetchpriority="low">
-  <link rel="preload" as="image" href="/portfolio/profile/flowers.webp?v=original-20261019" fetchpriority="low">
-  <link rel="preload" as="image" href="/portfolio/profile/portrait.webp?v=original-20261019" fetchpriority="low">
-  <link rel="preload" as="image" href="/portfolio/profile/star.webp?v=original-20261019" fetchpriority="low">
-  <link rel="preload" as="image" href="/portfolio/profile/oval.webp?v=original-20261019" fetchpriority="low">
+  <link rel="stylesheet" crossorigin href="/assets/main-B31oD3Ow.css">
+  <link rel="preload" as="image" href="/portfolio/book/cover.webp?v=original-20261019" fetchpriority="high">
 </head>
 <body>
   <header class="portfolio-masthead" aria-label="薛美静的作品集">
     <a class="portfolio-wordmark" href="/" aria-label="回到作品集封面">MEIJING <span>XUE</span></a>
     <span class="portfolio-edition">SELECTED WORKS</span>
   </header>
+  <div class="portfolio-cover-poster" aria-hidden="true">
+    <img src="/portfolio/book/cover.webp?v=original-20261019" width="1050" height="1200" fetchpriority="high" alt="">
+  </div>
   <main id="canvasContainer" aria-label="可翻阅的个人作品集">
     <div class="draggable">
       <button class="left navArrow" data-clickable="true" aria-label="上一页"><span>上一页</span></button>
