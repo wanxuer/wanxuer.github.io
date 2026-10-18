@@ -1,0 +1,11 @@
+{
+  "name": "薛美静",
+  "greeting": "Hi, I’m Meijing.",
+  "role": "AI 应用与工具产品探索者",
+  "headline": ["从真实问题出发，", "把想法做成有用的产品。"],
+  "education": ["西安石油大学 · 计算机硕士"],
+  "introduction": ["关注真实使用场景，把观察转化为产品方案。", "借助 AI 与原型验证想法，在反馈中持续迭代。", "从手账创作工具到垂直场景诊断，探索更多可能。"],
+  "keywords": "用户观察  /  AI 应用  /  原型验证",
+  "portraitNote": "人物为示意形象",
+  "source": "docs/personal-site/CONTENT_PLAN.md"
+}
