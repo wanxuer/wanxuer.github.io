@@ -1,6 +1,6 @@
 // Blocking head script: establish a complete palette before any page content paints.
 (function () {
-  var colors = {background:'#000000',text:'#ffffff',muted:'#8c8c8c',accent:'#ffffff',surface:'#000000',onSurface:'#ffffff',border:'#ffffff'};
+  var colors = {background:'#e8eef5',text:'#28394e',muted:'#596a80',accent:'#365d8c',surface:'#d4e0ef',onSurface:'#28394e',border:'#97abc4'};
   try {
     var saved = JSON.parse(localStorage.getItem('htwkr-theme-v1'));
     if (saved && saved.version === 1 && typeof saved.name === 'string' && saved.name.length <= 60 && saved.colors &&
