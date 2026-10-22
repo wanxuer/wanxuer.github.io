@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "number": 1,
+      "turn": 0.5,
+      "pointer": 0,
+      "ambient": 1,
+      "groups": [
+        {
+          "id": "flowers",
+          "x": 1,
+          "y": 1
+        },
+        {
+          "id": "portrait",
+          "x": 1,
+          "y": 0
+        },
+        {
+          "id": "decor",
+          "x": 1.5,
+          "y": 0.75
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0.5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "turn": 0.3,
+      "pointer": 0,
+      "ambient": 1,
+      "groups": [
+        {
+          "id": "page-2-1",
+          "x": 1,
+          "y": 0
+        },
+        {
+          "id": "page-2-2",
+          "x": 0.3,
+          "y": 1
+        },
+        {
+          "id": "page-2-3",
+          "x": 0.3,
+          "y": 0
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0.3,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "turn": 0.5,
+      "pointer": 0,
+      "ambient": 1,
+      "groups": [
+        {
+          "id": "left-collage",
+          "x": 0.5,
+          "y": 0
+        },
+        {
+          "id": "page-3-1",
+          "x": 0.5,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "turn": 0.5,
+      "pointer": 1,
+      "ambient": 0.1,
+      "groups": [
+        {
+          "id": "page-4-1",
+          "x": 0.5,
+          "y": 0.16
+        },
+        {
+          "id": "page-4-2",
+          "x": 0.7,
+          "y": 0.16
+        },
+        {
+          "id": "page-4-3",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "page-4-4",
+          "x": 1,
+          "y": 0.5
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0.35,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "turn": 0.22,
+      "pointer": 0,
+      "ambient": 0.03,
+      "groups": [
+        {
+          "id": "page-5-1",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "id": "page-5-2",
+          "x": 0.7,
+          "y": 0.3
+        },
+        {
+          "id": "page-5-3",
+          "x": 1.1,
+          "y": 0.5
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0.35,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "turn": 0.2,
+      "pointer": 0,
+      "ambient": 0.2,
+      "groups": [
+        {
+          "id": "page-6-1",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "id": "page-6-2",
+          "x": 0.9,
+          "y": 0.5
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "turn": 0.2,
+      "pointer": 1,
+      "ambient": 0.1,
+      "groups": [
+        {
+          "id": "page-7-1",
+          "x": 0.9,
+          "y": 0.4
+        },
+        {
+          "id": "page-7-2",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "id": "portfolio-copy.png",
+          "x": 0,
+          "y": 0
+        }
+      ]
+    }
+  ]
+}
